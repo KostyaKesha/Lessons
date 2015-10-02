@@ -11,7 +11,7 @@ public class MyArray {
         System.out.println("Min value is" + " "+ n [0]);
         System.out.println("Max value is" + " "+ n [n.length-1]);
         int a [] = {89, 94, 345,521,73,12,4,45,88,52};
-        
+
         // Замена первого и последнего элементов местами
         int t = a[0];
         a [0] = a[a.length-1];
