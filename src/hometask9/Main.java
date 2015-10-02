@@ -19,7 +19,7 @@ public class Main {
             {
                 System.out.println(cats.get(i));
             }
-            cats.set(0, "Pushok"); //Барсик вел себя плохо и его отдали в приют, взяли Пушка
+            cats.set(0, "Pushok"); //Barsik was a bad boy and he was given to a shelter and took Pushok
         System.out.println(" ");
         System.out.println("*****");
 
@@ -27,7 +27,7 @@ public class Main {
         {
             System.out.println(cats.get(i));
         }
-        cats.remove(1); // О горе! Мурзик сдох!!!
+        cats.remove(1); // The trouble!!! Murzik died!!!
         System.out.println(" ");
         System.out.println("*****");
 
